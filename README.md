@@ -12,5 +12,6 @@ In the Unseen Realm, a world of forgotten tales and ancient myths, a once-mighty
 ## Meet the team
 This is the team from Infrared Studios
 #### Rodney Thomas:
-- Lead programmer, networking, and publishing.
-#### 
+- Lead programmer, networking, and publishing. Does alot
+#### Dozer:
+- Manager of QA Team. Tests games I guess
