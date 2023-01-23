@@ -1,7 +1,7 @@
 # Unseen Realm: New Force
 ## Developed by
 - Infrared Studios
-- Skaruts (Camera System)
+- Skaruts (Camera System, Debug Mode)
 - Abr00 (Progress Bars)
 - Filgor84 (SquareGrid System)
 - Gilles (Quick Engine)
